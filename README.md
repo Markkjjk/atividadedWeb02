@@ -1,0 +1,2 @@
+Aluno: Marcos Cabral Barbosa = #02 - HTML 
+Como orientado na atividade deveriamos criar um site com um assunto de nossa preferência, cujo devia seguir certos requisitos apresentados pelo professor, eu escolhi um site com o tema de um jogo que eu gosto muito e que possuo conhecimendo, apresentei um breve resumo sobre a historia de cada jogo, e em outras abas apresentei personagens e armas do jogo com informações e em enquentes para descobrir quais são os personagens e armas favoritas de quem for acessar.
